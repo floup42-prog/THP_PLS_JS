@@ -1,5 +1,8 @@
+   console.log("********** Bonjour :")
+
 console.log("Bonjour monde");
 
+  console.log("********** Bonjour perso :")
 
 let hello_word = "Bonjour ";
 

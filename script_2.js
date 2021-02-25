@@ -1,3 +1,6 @@
+console.log("********** Factorielle :")
+
+
 nbr = prompt("Choisi un nombre ?");
 Number(nbr);
 
@@ -8,5 +11,4 @@ function factorielle(){
         console.log(nbr);
     }
 }
-
 factorielle();
